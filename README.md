@@ -19,7 +19,7 @@ The Pinch & Zoom App is an advanced SwiftUI project designed to provide users wi
 - Clone the repository to your local machine.
 - Open the project in Xcode.
 - Build and run the project on a compatible iOS device or simulator.
-- Explore the various features and functionalities of the Fructus app.
+- Explore the various features and functionalities of the Pinch app.
 # Requirements
 - Xcode 12 or later
 - iOS 14.0+
